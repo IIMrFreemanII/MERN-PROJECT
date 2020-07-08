@@ -84,6 +84,7 @@ export const AuthPage = () => {
                                 type="text"
                                 name="email"
                                 onChange={handleChange}
+                                value={form.email}
                             />
                         </div>
                         <div>
@@ -92,6 +93,7 @@ export const AuthPage = () => {
                                 type="password"
                                 name="password"
                                 onChange={handleChange}
+                                value={form.password}
                             />
                         </div>
                     </div>
