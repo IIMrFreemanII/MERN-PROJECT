@@ -2,5 +2,5 @@
   "port": 5000,
   "mongoUri": "mongodb+srv://admin:admin@cluster0.y9asc.mongodb.net/app?retryWrites=true&w=majority",
   "jwtSecret": "my secret key mern",
-  "baseUrl": "http://localhost:5000"
+  "baseUrl": "https://polar-stream-75287.herokuapp.com"
 }
